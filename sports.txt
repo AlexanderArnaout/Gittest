@@ -1,0 +1,6 @@
+soccer
+basketball
+football
+judo
+mma
+boxing
